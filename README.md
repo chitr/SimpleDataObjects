@@ -7,19 +7,19 @@ About
 SimpleDataObjects provides a file-io interface which is backend by a
 linear object store data.
 
-read
+read           |
 
-write
+write          |
 
-sync                                                    
+sync           |                                         
 
-flush             <===>SimpleDataObjects Lib <=======> Object store /striped data APIs
+flush          |             <===>SimpleDataObjects Lib <=======> Object store /striped data APIs
 
-open/create
+open/create    |
 
-close
+close          |
 
-delete
+delete         |
 
 
 
