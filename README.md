@@ -14,9 +14,13 @@ write          |
 sync           | 
 
 flush          |             <===>SimpleDataObjects Lib <=======> Object store /striped data APIs
-open/          |
+
+open          |
+
 create         |
+
 close          |
+
 delete         |
 
 
